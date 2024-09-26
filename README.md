@@ -2,7 +2,7 @@
 ---
 ## SWEN_CLASS
 
-### ** *AUTHOR : JOHN KIRUBAHARAN R* **  ###
+### ***AUTHOR : JOHN KIRUBAHARAN R***  ###
 
 **This is a DevOps Project which has been initiated.**
 
