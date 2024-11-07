@@ -16,5 +16,5 @@ jobs:
   steps:
   - uses: actions/checkout@v3
  
-  - name: Runnig unit test for yml file
+  - name: Running unit test for yml file
     run: echo "unit test for yml file"
