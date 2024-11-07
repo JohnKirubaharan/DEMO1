@@ -11,7 +11,7 @@ on:
 # This is the job to run the unit test for the yml file
 jobs:
   build:
-  runs-on: ubuntu-latest # This is the runner for the github actions
+    runs-on: ubuntu-latest # This is the runner for the github actions
  
   steps:
   - uses: actions/checkout@v3
